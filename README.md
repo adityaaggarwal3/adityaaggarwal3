@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
+[![YouTube Badge](https://img.shields.io/badge/Youtube-Aditya%20Aggarwal-blue?style=flat-square&logo=youtube)](https://www.youtube.com/channel/UClMC4ZP93mJ3rghc4nmnH4Q)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Aggarwal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-aggarwal-0310/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://priya2022.github.io/EdurekaIntern/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Website Badge](https://img.shields.io/badge/Website-Aditya%20Aggarwal-blue?style=flat-square&logo=Internet-Explorer)]()
+[![Website Badge](https://img.shields.io/badge/Website-Aditya%20Aggarwal-blue?style=flat-square&logo=Stack-Overflow)](https://stackoverflow.com/users/18768266/aditya-aggarwal)
 
 Here are some ideas to get you started:
 
