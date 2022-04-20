@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aditya-aggarwal-0310/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Aditya%20Aggarwal-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aditya-aggarwal-0310/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://priya2022.github.io/EdurekaIntern/)
 [![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)]()
 [![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
