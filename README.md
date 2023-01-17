@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Links added on top already
 - 😄 Pronouns: He
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=adityaaggarwal3)](https://github.com/ryo-ma/github-profile-trophy)
